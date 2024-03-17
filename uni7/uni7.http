@@ -1,0 +1,6 @@
+@uni7_HostAddress = http://localhost:5110
+
+GET {{uni7_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

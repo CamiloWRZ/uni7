@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\uni7.props" />
+</Project>
